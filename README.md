@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomzaxs&theme=dark&show_icons=true)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kc1876)](https://solved.ac/kc1876)
